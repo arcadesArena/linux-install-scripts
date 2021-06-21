@@ -1,4 +1,7 @@
 #!/bin/bash
+#author: shreyanshu shubham
+#version: 0.0.1b
+#date: 2021.06.21
 
 echo FRESH SETUP
 
