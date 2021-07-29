@@ -5,7 +5,7 @@
 #date: 2021.06.21
 
 echo FRESH SETUP
-
+cd
 sudo apt-get update
 sudo apt-get upgrade
 
