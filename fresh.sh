@@ -1,7 +1,7 @@
 #!/usr/bin/bash
-# username: arcadesArena
-# author:  shreyanshu shubham
-# version: 0.0.1a
+# username:	arcadesArena
+# author:	shreyanshu shubham
+# version:	0.0.1a
 
 # work_dir=~/.work_temp
 work_dir=.
@@ -23,7 +23,7 @@ function main(){
 echo "This is a script is made for bash on system using apt packet manager"
 read -p "If this system meets the above requirements press Y to continue: " _compatible
 
-if [ $_compatible == 'Y' ] || [ $_compatible == 'y' ]
+if [[ $_compatible == 'Y' ]] || [[ $_compatible == 'y' ]]
 then
     main
 else
